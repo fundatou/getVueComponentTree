@@ -1,0 +1,23 @@
+{
+  "name": "getvuecomponenttree",
+  "version": "1.0.0",
+  "description": "get vue component tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fundatou/getVueComponentTree.git"
+  },
+  "author": "fundatou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fundatou/getVueComponentTree/issues"
+  },
+  "homepage": "https://github.com/fundatou/getVueComponentTree#readme",
+  "dependencies": {
+    "@vue/component-compiler-utils": "^2.3.0",
+    "vue-template-compiler": "^2.5.19"
+  }
+}
